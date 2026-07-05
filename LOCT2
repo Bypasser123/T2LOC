@@ -3628,7 +3628,7 @@ $toolOk = Start-LocExternalTool -Name 'Autoruns' `
     -Wait
 Complete-LocToolStep -Name 'Autoruns' -Succeeded $toolOk
 
-Wait-NextStep "[8/8] Press Enter" "[8/8] Live Monitor"
+Wait-NextStep "[8/8] Press Enter" "[8/8]  Monitor"
 Show-LoadingBar
 Write-Host "Keep this window open during the match. Must show again after match." -ForegroundColor Yellow
 Write-Host ""
