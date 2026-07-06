@@ -91,7 +91,7 @@ Write-Host ' ____   ___  _     ___ ______   __  _____ ____  ' -ForegroundColor C
 Write-Host '|  _ \ / _ \| |   |_ _/ ___\ \ / / |_   _|___ \ ' -ForegroundColor Cyan
 Write-Host '| |_) | | | | |    | | |    \ V /    | |   __) |' -ForegroundColor Cyan
 Write-Host '|  __/| |_| | |___ | | |___  | |     | |  / __/ ' -ForegroundColor Cyan
-Write-Host '|_|    \___/|_____|___\____| |_|     |_| |_____|' -ForegroundColor Cyan
+Write-Host '|_|    \___/|_____|___\____| |_|     |_| |_____' -ForegroundColor Cyan
 Write-Host ""
 Write-Host "LOC Tier 2 v$($script:LocTier2Version)" -ForegroundColor White
 Write-Host ""
